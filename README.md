@@ -1,14 +1,16 @@
 # DELIVERABLES
-by Jomar Cunado, January Venice Toledo
+*by Jomar Cunado, January Venice Toledo*
 
 ## PLOTS Assignment
 
-I. Bar Chart
+I. [CODE (notebook)](https://github.com/joms-hub/PLOTS/blob/main/PLOTS.ipynb)
 
-II. Sankey Diagram
+II. [Bar Chart](https://github.com/joms-hub/PLOTS/blob/main/images/bar_chart.png)
 
-III. Network Graph
+III. [Sankey Diagram](https://github.com/joms-hub/PLOTS/blob/main/images/sankey.png) 
 
-IV. Collated
+IV. [Network Graph](https://github.com/joms-hub/PLOTS/blob/main/images/netgraph.png)
 
-V. Collated PDF
+V. [Collated]
+
+VI. [Collated PDF]
