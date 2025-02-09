@@ -11,6 +11,8 @@ III. [Sankey Diagram](https://github.com/joms-hub/PLOTS/blob/main/images/sankey.
 
 IV. [Network Graph](https://github.com/joms-hub/PLOTS/blob/main/images/netgraph.png)
 
-V. [Collated]
+V. [Collated PNG](https://github.com/joms-hub/PLOTS/blob/main/images/Collated.png)
 
-VI. [Collated PDF]
+VI. [Collated PDF](https://github.com/joms-hub/PLOTS/blob/main/Collated.pdf)
+
+VII. [REPO](https://github.com/joms-hub/PLOTS)
